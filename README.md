@@ -1,7 +1,7 @@
 # ReduxSimpleStarter - books page.
 
 This repo is based on a tutorial from StephenGrider at Udemy which I would highly recommend checking out.
-Follow the instructions below to install a finished version of the React part of the course - which focuses on
+Follow the instructions below to install a finished version of the second part to the course - which focuses on
 the use of React with Redux to call actions then reducers to update front end view model.
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
